@@ -1,0 +1,6 @@
+models:
+  - name: stg_transactions
+    description: "Staging model for transaction data"
+    columns:
+      - name: customer_id
+        description: "Unique identifier for each customer"
